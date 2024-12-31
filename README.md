@@ -2,4 +2,4 @@
 
 GuiVim - GUI for text redactor vim.
 
-google.com
+https://google.com
